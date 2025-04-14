@@ -7,12 +7,12 @@ global.ownernomer = "+254780541140"
 global.ownername = "Nick"
 global.ytname = "YT: commentius"
 global.socialm = "GitHub: Elite-MD"
-global.location = "Nigeria, Port Harcourt"
+global.location = "Kenya , Kiambu"
 
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'ElitePro' //owner name
-global.botname = 'ELITE-PRO-V1' //name of the bot
+global.ownernumber = '+254780541140'  //creator number
+global.ownername = 'Nick' //owner name
+global.botname = 'Niko_gnito' //name of the bot
 
 
 //custom prefix
